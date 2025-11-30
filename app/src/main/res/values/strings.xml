@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="enter_barcode">Введите штрихкод</string>
+    <string name="send_button">Отправить</string>
+    <string name="scan_button">Сканировать</string>
+    <string name="result_sent">Результат отправлен - %s</string>
+</resources>
